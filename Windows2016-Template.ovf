@@ -17,9 +17,6 @@
     <Info>Storage policy for group of disks</Info>
     <vmw:Description>The vSAN Default Storage Policy storage policy group</vmw:Description>
   </vmw:StorageGroupSection>
-  <vmw:IpAssignmentSection vmw:schemes="ovfenv" vmw:protocols="IPv4">
-    <Info>Supported IP assignment schemes</Info>
-  </vmw:IpAssignmentSection>
   <VirtualSystem ovf:id="Windows2016-Template">
     <Info>A Virtual system</Info>
     <Name>Windows2016-Template</Name>
